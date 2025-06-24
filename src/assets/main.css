@@ -1,0 +1,25 @@
+@import './base.css';
+
+h1 {
+  font-family:
+    'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana,
+    sans-serif;
+  font-size: 38px;
+  font-weight: bold;
+
+  text-align: center;
+  margin: 20px auto;
+}
+div {
+  padding: 24px;
+}
+button {
+  margin: 0 48px 0 0;
+  padding: 16px 28px;
+
+  background-color: rgb(106, 213, 156);
+  border: none;
+  border-radius: 4px;
+
+  cursor: pointer;
+}
